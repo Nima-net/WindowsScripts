@@ -1,0 +1,1 @@
+gswin64 -o %2 -sDEVICE=pdfwrite -c "{1 exch sub}{1 exch sub}{1 exch sub}{1 exch sub} setcolortransfer" -f %1

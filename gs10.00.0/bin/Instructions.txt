@@ -1,0 +1,3 @@
+command template :
+transformToNigga <source file> <dest file>
+1 - should print as image if errors get in the way
